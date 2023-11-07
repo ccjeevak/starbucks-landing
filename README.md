@@ -1,5 +1,7 @@
 # Starbucks Landing Page
 
+![website preview pic](src/assets/images/starbucks-landing-page.png)
+
 Steps to preview application - 
 ```
 cd starbucks-landing
